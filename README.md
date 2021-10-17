@@ -2,7 +2,6 @@
 Infrastructure as a Code for ASG using EC2, Launch Template,
 EFS, SNS, Instance Profile and Code Deploy.
 
-
 # Project Structure
 All files is divided based on AWS resources,.
 
